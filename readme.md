@@ -9,7 +9,7 @@
 - Componenet Type/Size/Grade prefixed to the name (eg.  )
 - Hephaestanite (Raw) shortened to Heph (Raw)
 
-> With thanks to [SaltEMike](https://www.twitch.tv/saltemike) for the joking idea that I ran with...
+> With thanks to [SaltEMike](https://www.twitch.tv/saltemike) for the joking idea that I ran with... [Check out his video here](https://youtu.be/K5yBt55NljE)
 
 >[!NOTE]
 > Based once again on the wonderful Language Pack idea by [ExoAE](https://github.com/ExoAE/ScCompLangPack/tree/main). 

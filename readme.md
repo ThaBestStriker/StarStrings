@@ -44,6 +44,9 @@ StarCitizen/
 - [RSI Terms of Service](https://robertsspaceindustries.com/en/tos)
 - [Translation & Fan Localization Statement](https://support.robertsspaceindustries.com/hc/en-us/articles/360006895793-Star-Citizen-Fankit-and-Fandom-FAQ#h_01JNKSPM7MRSB1WNBW6FGD2H98)
 
+>[!NOTE]
+> To sanity check & debug why some contracts had multiple pools when it looked like there shouldn't be, Claude was used to look over the files & parser, turns out there are regional variations in Pyro 🤷‍♂️
+
 
 <div id="badges">
   <a href="https://www.youtube.com/@Mrkraken">

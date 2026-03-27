@@ -29,8 +29,8 @@ StarCitizen/
             └── english/
                 └── global.ini
 ```
-
-
+> [!WARNING]
+> This is done by find/replace operations based on extracted game data and it would be an almight task to manually check each contract personally, if you find any errors please let me know via the Issues tab. 
 
 > [!WARNING]
 > You will need to maintain this file in order to keep strings up-to-date with each new build/patch that modifies strings. I have an automation setup to push new versions live but please keep in mind that I am UK based and PTU builds normally go up very late UK time, so there may be a few hours delay

@@ -3,9 +3,10 @@
 
 
 # Includes
+- Contracts that award blueprints have the potential pool added to the end of the description
+  - Not perfect, but if you want to *search* for contracts/blueprints instead [SCMDB by 🥑Krovax](https://scmdb.net/) can help
 - Warning prefixes for illegal substances
 - Componenet Type/Size/Grade prefixed to the name (eg.  )
-- Contracts that award blueprints have the potential pool added to the end of the description
 - Hephaestanite (Raw) shortened to Heph (Raw)
 
 > With thanks to [SaltEMike](https://www.twitch.tv/saltemike) for the joking idea that I ran with...

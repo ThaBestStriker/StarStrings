@@ -11,6 +11,8 @@
 - Hephaestanite (Raw) shortened to Heph (Raw)
 - Hauling contract titles cleaned up and Direct underlined
 
+If you want to use bits from different translation packs you've found, check out [BeltaKoda's web based tool](https://beltakoda.github.io/StarMeld/)
+
 > With thanks to [SaltEMike](https://www.twitch.tv/saltemike) for the joking idea that I ran with... [Check out his video here](https://youtu.be/K5yBt55NljE)
 
 >[!NOTE]
